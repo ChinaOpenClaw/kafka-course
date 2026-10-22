@@ -4,7 +4,7 @@
 
 ## 🌐 在线预览
 
-GitHub Pages：`https://sangjiexun.github.io/kafka-course/`（部署后访问）
+GitHub Pages：**https://chinaopenclaw.github.io/kafka-course/**（首次部署需 1-3 分钟构建）
 
 本地预览：
 
